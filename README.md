@@ -1,4 +1,4 @@
-#Javascript/Css Clock
+# Javascript/Css Clock
 
 Built following along Wes Bos' Javascript 30 series.
 
